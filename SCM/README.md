@@ -1,2 +1,0 @@
-# SCM
-My first coding
